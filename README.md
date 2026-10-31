@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# MoneyMatters
-=======
 # MoneyMatters
 
 A mobile-friendly money tracking web app that records spending and income entries and saves them to a Google Sheet.
@@ -74,4 +71,3 @@ Open the GitHub Pages URL in a browser on mobile. Enter the amount and reason, t
 - This is a static frontend solution and is ideal for GitHub Pages.
 - Data is stored in Google Sheets through the Apps Script backend.
 - The app works well on both mobile and desktop browsers.
->>>>>>> 7f82d9b (Intial Commit)
